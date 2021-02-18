@@ -1,4 +1,4 @@
-# Here we will have the description of the files
+# Exercises in this month:
 
 ### 2021-02-16 builder-pattern
 
